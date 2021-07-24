@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="13.384" timestamp="2021-07-23T13:30:31.228808" hostname="ADASHRIV-L2WAR"><testcase classname="test_e2e.TestOne" name="test_e2e" time="13.331" /></testsuite></testsuites>
